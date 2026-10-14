@@ -4,7 +4,7 @@ plural noun (person/place/thing): china
 a number: 67
 plural noun (person/place/thing): Josh
 adjective (descriptor): strange
-proper noun (name of a person/place/thing): boat
+proper noun (name of a person/place/thing): super awesome boat
 verb (action word) ending in -ing: oozing
 adjective (descriptor): poor
 noun (person/place/thing): bathroom
