@@ -1,12 +1,12 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): slow
+adjective (descriptor): colorful
+plural noun (person/place/thing): china
+a number: 67
+plural noun (person/place/thing): Josh
+adjective (descriptor): strange
+proper noun (name of a person/place/thing): boat
+verb (action word) ending in -ing: oozing
+adjective (descriptor): poor
+noun (person/place/thing): bathroom
+adjective (descriptor): nutty
+noun (person/place/thing): jake
